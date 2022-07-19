@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "just tell me what to do now",
+      "details": "Made by: Don Nguyen",
+      "complete": false,
+      "id": 329
+    },
+    {
+      "title": "hello",
+      "details": "completed\n",
+      "complete": true,
+      "id": 268
+    }
+  ]
+}
